@@ -21,13 +21,13 @@
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Dr Mike Teng</title>
-<link>http://localhost:8080</link>
+<link>https://miketeng.com/wordpress</link>
 <description>Corporate Turnaround Expert &amp; Author</description>
 <pubDate>Wed, 15 Apr 2026 06:36:12 +0000</pubDate>
 <language>en-US</language>
 <wp:wxr_version>1.2</wp:wxr_version>
-<wp:base_site_url>http://localhost:8080</wp:base_site_url>
-<wp:base_blog_url>http://localhost:8080</wp:base_blog_url>
+<wp:base_site_url>https://miketeng.com/wordpress</wp:base_site_url>
+<wp:base_blog_url>https://miketeng.com/wordpress</wp:base_blog_url>
 <wp:category>
   <wp:term_id>1</wp:term_id>
   <wp:category_nicename>uncategorized</wp:category_nicename>
@@ -56,10 +56,10 @@
 <generator>https://wordpress.org/?v=6.9.4</generator>
 <item>
   <title><![CDATA[Navigation]]></title>
-  <link>http://localhost:8080/navigation/</link>
+  <link>https://miketeng.com/wordpress/navigation/</link>
   <pubDate>Tue, 31 Mar 2026 06:26:05 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/?p=4</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/?p=4</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -80,10 +80,10 @@
 </item>
 <item>
   <title><![CDATA[Home]]></title>
-  <link>http://localhost:8080/</link>
+  <link>https://miketeng.com/wordpress/</link>
   <pubDate>Tue, 31 Mar 2026 06:28:44 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/home/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/home/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <!-- HERO -->
@@ -204,10 +204,10 @@
 </item>
 <item>
   <title><![CDATA[Contact]]></title>
-  <link>http://localhost:8080/contact/</link>
+  <link>https://miketeng.com/wordpress/contact/</link>
   <pubDate>Tue, 31 Mar 2026 06:29:24 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/contact/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/contact/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -258,10 +258,10 @@
 </item>
 <item>
   <title><![CDATA[Articles & Insights]]></title>
-  <link>http://localhost:8080/articles/</link>
+  <link>https://miketeng.com/wordpress/articles/</link>
   <pubDate>Tue, 31 Mar 2026 06:30:32 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/articles/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/articles/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -440,10 +440,10 @@
 </item>
 <item>
   <title><![CDATA[Start Here]]></title>
-  <link>http://localhost:8080/start-here/</link>
+  <link>https://miketeng.com/wordpress/start-here/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:05 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/start-here/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/start-here/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <!-- PAGE HEADER -->
@@ -584,10 +584,10 @@
 </item>
 <item>
   <title><![CDATA[About the Author]]></title>
-  <link>http://localhost:8080/about-author/</link>
+  <link>https://miketeng.com/wordpress/about-author/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:06 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/about-author/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/about-author/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -664,10 +664,10 @@
 </item>
 <item>
   <title><![CDATA[About the Book]]></title>
-  <link>http://localhost:8080/about-book/</link>
+  <link>https://miketeng.com/wordpress/about-book/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:06 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/about-book/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/about-book/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -794,10 +794,10 @@
 </item>
 <item>
   <title><![CDATA[Other Books]]></title>
-  <link>http://localhost:8080/other-books/</link>
+  <link>https://miketeng.com/wordpress/other-books/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:07 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/other-books/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/other-books/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -909,10 +909,10 @@
 </item>
 <item>
   <title><![CDATA[Endorsements]]></title>
-  <link>http://localhost:8080/endorsements/</link>
+  <link>https://miketeng.com/wordpress/endorsements/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:07 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/endorsements/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/endorsements/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -1063,10 +1063,10 @@
 </item>
 <item>
   <title><![CDATA[Reviews]]></title>
-  <link>http://localhost:8080/reviews/</link>
+  <link>https://miketeng.com/wordpress/reviews/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:08 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/reviews/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/reviews/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -1131,10 +1131,10 @@
 </item>
 <item>
   <title><![CDATA[Media Coverage]]></title>
-  <link>http://localhost:8080/media/</link>
+  <link>https://miketeng.com/wordpress/media/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:09 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/media/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/media/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <div class="page-header">
@@ -1352,10 +1352,10 @@
 </item>
 <item>
   <title><![CDATA[Playlist]]></title>
-  <link>http://localhost:8080/playlist/</link>
+  <link>https://miketeng.com/wordpress/playlist/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:10 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/playlist/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/playlist/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <section class="page-header">
@@ -1509,10 +1509,10 @@
 </item>
 <item>
   <title><![CDATA[Case Studies]]></title>
-  <link>http://localhost:8080/case-studies/</link>
+  <link>https://miketeng.com/wordpress/case-studies/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:11 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/case-studies/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/case-studies/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:html -->
 <!-- PAGE HEADER -->
@@ -1632,10 +1632,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/38/</link>
+  <link>https://miketeng.com/wordpress/38/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:14 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/38/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/38/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1689,10 +1689,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/39/</link>
+  <link>https://miketeng.com/wordpress/39/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:15 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/39/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/39/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1746,10 +1746,10 @@
 </item>
 <item>
   <title><![CDATA[About Author]]></title>
-  <link>http://localhost:8080/about-author/</link>
+  <link>https://miketeng.com/wordpress/about-author/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:15 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/about-author/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/about-author/</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1803,10 +1803,10 @@
 </item>
 <item>
   <title><![CDATA[About Book]]></title>
-  <link>http://localhost:8080/about-book/</link>
+  <link>https://miketeng.com/wordpress/about-book/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:16 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/about-book/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/about-book/</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1860,10 +1860,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/42/</link>
+  <link>https://miketeng.com/wordpress/42/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:17 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/42/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/42/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1917,10 +1917,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/43/</link>
+  <link>https://miketeng.com/wordpress/43/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:17 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/43/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/43/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1974,10 +1974,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/44/</link>
+  <link>https://miketeng.com/wordpress/44/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:18 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/44/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/44/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2031,10 +2031,10 @@
 </item>
 <item>
   <title><![CDATA[Articles]]></title>
-  <link>http://localhost:8080/articles/</link>
+  <link>https://miketeng.com/wordpress/articles/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:19 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/articles/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/articles/</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2088,10 +2088,10 @@
 </item>
 <item>
   <title><![CDATA[Media]]></title>
-  <link>http://localhost:8080/media/</link>
+  <link>https://miketeng.com/wordpress/media/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/media/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/media/</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2145,10 +2145,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/47/</link>
+  <link>https://miketeng.com/wordpress/47/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/47/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/47/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2202,10 +2202,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/48/</link>
+  <link>https://miketeng.com/wordpress/48/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:21 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/48/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/48/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2259,10 +2259,10 @@
 </item>
 <item>
   <title><![CDATA[]]></title>
-  <link>http://localhost:8080/49/</link>
+  <link>https://miketeng.com/wordpress/49/</link>
   <pubDate>Wed, 15 Apr 2026 02:59:22 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">http://localhost:8080/49/</guid>
+  <guid isPermaLink="false">https://miketeng.com/wordpress/49/</guid>
   <description/>
   <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
