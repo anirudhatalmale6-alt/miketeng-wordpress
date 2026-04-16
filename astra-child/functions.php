@@ -94,15 +94,47 @@ add_filter('widget_pages_args', function($args) {
     return $args;
 });
 
-// One-time: assign Primary Nav menu to the primary theme location
+// One-time: set menu_order on pages and nav menu items, assign menu to primary location
 add_action('init', function() {
-    if (get_option('miketeng_menu_assigned_v1')) return;
+    if (get_option('miketeng_menu_setup_v2')) return;
+
+    // Desired page order (slug => order)
+    $page_order = [
+        'home' => 1, 'start-here' => 2, 'about-author' => 3, 'about-book' => 4,
+        'endorsements' => 5, 'reviews' => 6, 'articles-insights' => 7, 'media' => 8,
+        'other-books' => 9, 'playlist' => 10, 'case-studies' => 11, 'blog' => 12,
+        'contact' => 13,
+    ];
+    foreach ($page_order as $slug => $order) {
+        $page = get_page_by_path($slug);
+        if ($page) {
+            wp_update_post(['ID' => $page->ID, 'menu_order' => $order]);
+        }
+    }
+
+    // Set menu_order on Primary Nav menu items to match desired order
     $menu = wp_get_nav_menu_object('Primary Nav');
     if ($menu) {
+        $items = wp_get_nav_menu_items($menu->term_id, ['update_post_term_cache' => false]);
+        if ($items) {
+            $title_to_order = [
+                'Home' => 1, 'Start Here' => 2, 'About the Author' => 3, 'About the Book' => 4,
+                'Endorsements' => 5, 'Reviews' => 6, 'Articles & Insights' => 7, 'Media Coverage' => 8,
+                'Other Books' => 9, 'Playlist' => 10, 'Case Studies' => 11, 'Blog' => 12, 'Contact' => 13,
+            ];
+            foreach ($items as $item) {
+                $title = trim($item->title);
+                if (isset($title_to_order[$title])) {
+                    wp_update_post(['ID' => $item->ID, 'menu_order' => $title_to_order[$title]]);
+                }
+            }
+        }
+        // Assign menu to primary location
         $locations = get_theme_mod('nav_menu_locations', []);
         if (!is_array($locations)) $locations = [];
         $locations['primary'] = $menu->term_id;
         set_theme_mod('nav_menu_locations', $locations);
-        update_option('miketeng_menu_assigned_v1', '1');
     }
+
+    update_option('miketeng_menu_setup_v2', '1');
 }, 20);
